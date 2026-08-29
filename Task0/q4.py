@@ -18,7 +18,7 @@ print("Final Scores - Shape:", final_scores.shape)
 print("Final Scores - Data type:", final_scores.dtype)
 
 #Mean final score
-print("\nMean final score:", np.mean(final_scores))
+print("Mean final score:", np.mean(final_scores))
 
 #Maximum and minimum
 print("Maximum final score:", np.max(final_scores))
