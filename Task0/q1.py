@@ -17,9 +17,9 @@ for num in a:
         smallest = num
 
     if num % 2 == 0:
-        even_count += 1
+        even += 1
     else:
-        odd_count += 1
+        odd += 1
 
     total=total+num
 print("Largest:", largest) 
